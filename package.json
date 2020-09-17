@@ -1,0 +1,30 @@
+{
+  "name": "phones",
+  "version": "1.0.0",
+  "description": "Parse site with smartphones",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitalij-lutsyk/phones.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "parsing",
+    "smartphones",
+    "phones"
+  ],
+  "author": "Vitalij Lutsyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitalij-lutsyk/phones/issues"
+  },
+  "homepage": "https://github.com/vitalij-lutsyk/phones#readme",
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
